@@ -1,0 +1,11 @@
+Studijní materiály
+Budou k dispozici ve složce Vyuka/Arnošt Večerka/YSOFI
+
+Plán výuky
+Organizovaná prezenční výuka
+
+  * Obsah a význam softwarového inženýrství. Softwarový proces, vodopádový model, iterativní proces, agilní techniky.
+  * Specifikace požadavků, funkční a nefunkční požadavky.
+  * Jazyk UML - jeho hlavní diagramy.
+  * Psaní kvalitního kódu.
+  * Testování.
